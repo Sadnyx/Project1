@@ -12,7 +12,7 @@ BMI, insulin level, age, and so on.
 
 # Accomplishments
 
-## Models without Hyperparameter Optimization\
+## Models without Hyperparameter Optimization
 LR: 0.8607594936708861\
 KNN: 0.8860759493670886\
 CART: 0.7341772151898734\
